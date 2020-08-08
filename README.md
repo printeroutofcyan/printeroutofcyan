@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**printeroutofcyan/printeroutofcyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+P-P-A-P
+I have a pen, I have a apple
+Uh
+Apple-Pen
+I have a pen, I have pineapple
+Uh
+Pineapple-Pen
+Apple-Pen, Pineapple-Pen
+Uh
+Pen-Pineapple-Apple-Pen
+Pen-Pineapple-Apple-Pen
+P-P-A-P
+I have a pen, I have a apple
+Uh
+Apple-Pen
+I have a pen, I have pineapple
+Uh
+Pineapple-Pen
+Apple-Pen, Pineapple-Pen
+Uh
+Pen-Pineapple-Apple-Pen
+Pen-Pineapple-Apple-Pen
